@@ -118,7 +118,7 @@
       <!-- ChatGPT Image Dec 9, 2025, 06_18_15 PM.png -->
       <a href="#top" class="flex items-center gap-3">
         <div class="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-[var(--brand-green)] via-[var(--brand-yellow)] to-[var(--brand-red)]">
-          <span class="text-xs font-black text-white">FP</span>
+          <span class="text-xs font-black text-white">Vick</span>
         </div>
         <div class="leading-tight">
           <div class="text-sm font-semibold text-slate-900">
