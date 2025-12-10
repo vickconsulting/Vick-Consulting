@@ -119,7 +119,7 @@
   <!-- NAVBAR -->
   <header class="sticky top-0 z-40 border-b border-slate-100 bg-white/80 backdrop-blur">
     <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 md:px-6">
-      <!-- Logo -->
+      <!-- ChatGPT Image Dec 9, 2025, 06_18_15 PM.png -->
       <a href="#top" class="flex items-center gap-3">
         <div class="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-[var(--brand-green)] via-[var(--brand-yellow)] to-[var(--brand-red)]">
           <span class="text-xs font-black text-white">FP</span>
@@ -198,11 +198,11 @@
 
         <!-- Visual / card -->
         <div class="card-soft relative px-6 py-6 sm:px-8 sm:py-8">
-          <!-- Logo area -->
+          <!-- ChatGPT Image Dec 9, 2025, 06_18_15 PM.png -->
           <div class="flex items-center gap-3">
-            <!-- Replace src with your final logo file -->
+            <!-- Replace src with your final ChatGPT Image Dec 9, 2025, 06_18_15 PM.png file -->
             <div class="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-[var(--brand-green)] via-[var(--brand-yellow)] to-[var(--brand-red)]">
-              <span class="text-xs font-black text-white">Logo</span>
+              <span class="text-xs font-black text-white">ChatGPT Image Dec 9, 2025, 06_18_15 PM.png</span>
             </div>
             <div class="text-sm text-slate-700">
               <div class="font-semibold">People. Preparedness. Protection.</div>
