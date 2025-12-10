@@ -399,7 +399,7 @@
             Leadership, safety, and HR expertise in one seat at the table.
           </h2>
           <p class="mt-4 text-sm text-slate-600">
-            Dr. Fredlan Pams brings together doctoral research in leadership, an MBA in global operations, and over 15 years of
+            Dr. Pams brings together doctoral research in leadership, an MBA in global operations, and over 15 years of
             hands-on experience leading EHS and HR programs for major organizations.
           </p>
           <ul class="mt-4 space-y-2 text-sm text-slate-700">
@@ -416,9 +416,9 @@
         <div class="card-soft flex flex-col items-center px-6 py-8 text-center">
           <!-- Replace with your real headshot -->
           <div class="h-28 w-28 overflow-hidden rounded-full bg-slate-200">
-            <img src="/assets/founder.jpg" alt="Dr. Fredlan Pams" class="h-full w-full object-cover" />
+            <img src="/assets/founder.jpg" alt="Dr. Pams" class="h-full w-full object-cover" />
           </div>
-          <div class="mt-4 text-base font-semibold text-slate-900">Dr. Fredlan Pams, PhD, MBA</div>
+          <div class="mt-4 text-base font-semibold text-slate-900">Dr. Pams, PhD, MBA</div>
           <div class="text-xs font-medium uppercase tracking-[0.16em] text-slate-500">
             Safety • HR • Leadership
           </div>
