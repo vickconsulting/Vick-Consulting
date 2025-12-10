@@ -1,3 +1,8 @@
+Vick-Consulting/
+   index.html
+   styles.css
+   images/
+   scripts.js
 <html lang="en">
 <head>
   <meta charset="utf-8" />
